@@ -29,7 +29,7 @@
 ## 📫 Connect With Me
 
 - 🌐 [LinkedIn](https://linkedin.com/in/your-link)  
-- 💼 Portfolio: `Coming soon...`  
+- 💼 Portfolio: `(https://BharathOO7.github.io/portfolio/)`  
 - 📬 Drop me a message—always open to collaboration, feedback, or a good AI joke!
 
 ---
